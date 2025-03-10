@@ -1,5 +1,5 @@
 public class task1{
     public static void main(String[] args) {
-        System.out.println("hai bye");
+        System.out.println("hae bye");
     }
 }
